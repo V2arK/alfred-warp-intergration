@@ -2,6 +2,11 @@
 
 Welcome to the Alfred Warp Integration Workflow repository! This workflow is designed to seamlessly integrate the Warp terminal into your Alfred experience, providing a native-like user interface and enhanced productivity features.
 
+## Key Features
+
+- **Speed**: This implementation outperforms many existing AppleScript-based solutions, ensuring a quicker execution.
+- **Character Compatibility**: Supports the input of special characters, including Chinese, allowing for a more versatile usage.
+
 ## Overview
 
 The Alfred Warp Integration Workflow facilitates a smoother interaction between Alfred and the Warp terminal. By generating a specific launch configuration file, it enables the execution of terminal commands directly from Alfred, leveraging Warp's capabilities.
