@@ -26,7 +26,3 @@ Upon activation, this workflow creates a [launch configuration file](https://doc
 
 After installation, simply type `w` followed by your command in Alfred. The command will execute in Warp with the specified configuration.
 
-## Troubleshooting and FAQ
-
-For common issues and questions, please put an issue.
-
